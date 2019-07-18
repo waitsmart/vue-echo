@@ -17,12 +17,6 @@
 8. [Stylus（css预处理器）](https://github.com/stylus/stylus)
 9. [IconFont（阿里字体库）](http://www.iconfont.cn/)
 
-## 效果演示 
-
-[在线链接](http://echo.liansixin.win)（请使用手机模式预览）
-
-<img src="https://github.com/uncleLian/vue2-echo/raw/gh-pages/screenshots/echo_QRcode.png" width="250" height="250"/>
-
 ## 功能
 
 - [x] 全站内播放（单页面优点）
